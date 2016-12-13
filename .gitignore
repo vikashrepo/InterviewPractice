@@ -40,3 +40,5 @@ Thumbs.db
 ###############
 /.metadata/
 /Users/vikash/Documents/Eclipse/workspace/.metadata/*
+/.recommenders/
+/Users/vikash/Documents/Eclipse/workspace/.recommenders/*
