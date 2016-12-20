@@ -39,6 +39,8 @@ Thumbs.db
 # Directories #
 ###############
 /.metadata/
+/Interview/.metadata/
+/Interview/bin/
 /Users/vikash/Documents/Eclipse/workspace/.metadata/*
 /.recommenders/
 /Users/vikash/Documents/Eclipse/workspace/.recommenders/*
